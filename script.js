@@ -26,7 +26,7 @@ null==d?void 0:d))},attrHooks:{type:{set:function(a,b){if(!o.radioValue&&"radio"
 
 // membuat modal pada js
 var iniModalBaru = document.createElement("DIV");
-iniModalBaru.innerHTML = `   <a onclick="topFunction()" id="back-top" style="display: block;" class="">Top</a>
+iniModalBaru.innerHTML = `   <a onclick="topFunction()" id="back-top" style="display: block;" class="">^</a>
                         <div class="popupbaru">
                             <span class="popupbaru-close">x</span>
                             <div class="popupbaru-logo"></div>
