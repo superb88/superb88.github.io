@@ -15,9 +15,7 @@ null==d?void 0:d))},attrHooks:{type:{set:function(a,b){if(!o.radioValue&&"radio"
      link.id   = cssIdBaru;
      link.rel  = 'stylesheet';
      link.type = 'text/css';
-     // gunakan script dibawah jika file dalam satu directory
-     // link.href = 'style.css';
-     // atau gunakan css seperti dibawah untuk penggunaan blogger ,
+ 
      link.href = 'https://superb88.github.io/style.css';
      link.media = 'all';
      head.appendChild(link);
@@ -32,9 +30,9 @@ iniModalBaru.innerHTML = `   <a onclick="topFunction()" id="back-top" style="dis
                         <div class="popupbaru">
                             <span class="popupbaru-close">x</span>
                             <div class="popupbaru-logo"></div>
-                            <h3 class="popupbaru-title">No Brainer Deals: Only $1</h3>
+                            <h3 class="popupbaru-title">No Brainer Deals: $1</h3>
                             <p class="popupbaru-description">✔️ Unlimited access to 3 million+ beautiful graphics ✔️ Get access to all resources ✔️ No limits and Commercial use allowed on all resources</p>
-                            <a href="https://bit.ly/creativefabricas" title="SuperSale" rel="nofollow noindex noopener" class="popupbaru-button" target="_blank">Download</a>
+                            <a href="https://bit.ly/creativefabricas" title="Download Now" rel="nofollow noindex noopener" class="popupbaru-button" target="_blank">Download</a>
                         </div>`;
                         
 
