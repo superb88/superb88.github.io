@@ -30,7 +30,7 @@ iniModalBaru.innerHTML = `   <a onclick="topFunction()" id="back-top" style="dis
                         <div class="popupbaru">
                             <span class="popupbaru-close">x</span>
                             <div class="popupbaru-logo"></div>
-                            <h3 class="popupbaru-title">No Brainer Deals: Its ONLY $1 for ALL</h3>
+                            <h3 class="popupbaru-title">No Brainer Deals:   ONLY $1 for ALL</h3>
                             <p class="popupbaru-description">
 ✔️ Unlimited access to 3 million+ beautiful graphics ✔️ Get access to all resources ✔️ No limits ✔️ Personal and Commercial use allowed on all resources ✔️ New designs added daily</p>
                             <a href="https://bit.ly/creativefabricas" title="Download Now" rel="nofollow noindex noopener" class="popupbaru-button" target="_blank">Download</a>
