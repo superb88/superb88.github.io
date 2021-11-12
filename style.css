@@ -3,14 +3,14 @@
     background-color: #f5f6f7;
 } */
 .popupbaru-title{
-    color:black;
+    color:grey;
 }
 .popupbaru-description{
     color: grey;
 }
 .popupbaru-button,.popupbaru-button:visited{
     text-decoration: none;
-    color:white;
+    color:black;
 }
 /* .testing {
     padding: 5%;
@@ -42,8 +42,8 @@
 
     .popupbaru-logo {
         float: left;
-        width: 75px;
-        height: 75px;
+        width: 55px;
+        height: 55px;
         background-size: cover;
         background-image: url('https://avatars.githubusercontent.com/u/64274110');
         margin: 0 5% 0 0 ;
@@ -66,8 +66,8 @@
         position: fixed;
         bottom: 20px;
         right: 10%;
-        width: 36px;
-        height: 36px;
+        width: 6px;
+        height: 6px;
         background-color: #6c6cfe;
         cursor: pointer;
         overflow: hidden;
