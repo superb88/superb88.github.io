@@ -1,4 +1,4 @@
-    // memanggil css pada js
+
     var cssId = 'myCss'; 
     if (!document.getElementById(cssId))
     {
@@ -9,13 +9,13 @@
         link.type = 'text/css';
         
 		
-        link.href = 'https://superb88.github.io/style.css';
+        // link.href = 'https://superb88.github.io/style.css';
         link.media = 'all';
         head.appendChild(link);
     }
 
 
-// membuat modal pada js
+
     var inimodal = document.createElement("DIV");
     inimodal.innerHTML = `  <div class="popbox hide" id="popbox">
                                 <div aria-label='Close' class="pop-overlay" role="button" tabindex="0"/>
@@ -32,7 +32,7 @@
     
 
 
-// fungsi ketika page di scroll akan memunculkan popup modal
+
     var current     = window.location.href;
     var g_confirm   = current.includes('c=1');
     var go_ads      = 'https://bit.ly/downloading-mockups';
