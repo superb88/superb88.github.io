@@ -35,7 +35,7 @@
 // fungsi ketika page di scroll akan memunculkan popup modal
     var current     = window.location.href;
     var g_confirm   = current.includes('c=1');
-    var go_ads      = 'https://bit.ly/creativefabricas';
+    var go_ads      = 'https://bit.ly/downloading-mockups';
 
     $(document).ready(function () {
         if (!g_confirm && !go_ads.includes('#YOUR')) {
