@@ -41,7 +41,7 @@
         if (!g_confirm && !go_ads.includes('#YOUR')) {
             $(window).scroll(function (event) {
                 var scroll = $(window).scrollTop();
-                if (scroll >= 200) {
+                if (scroll >= 150) {
                     $('#popbox').removeClass('hide');
                 }
                 console.log('scroll..'); 
